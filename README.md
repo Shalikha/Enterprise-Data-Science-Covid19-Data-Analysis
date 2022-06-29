@@ -1,7 +1,7 @@
-ADS_COVID-19
+Enterprise Data Science - Covid 19 Data Analysis
 ==============================
 
-Applied data science on Covid-19 data
+Project submission by Shalikha Rajesh (Mtr no.: 422835)
 
 Project Organization
 ------------
