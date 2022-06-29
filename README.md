@@ -1,4 +1,7 @@
-# Enterprise Data Science - COVID 19 Data Analysis
+ADS_COVID-19
+==============================
+
+Applied data science on Covid-19 data
 
 Project Organization
 ------------
@@ -46,7 +49,7 @@ Project Organization
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
     │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
 --------
